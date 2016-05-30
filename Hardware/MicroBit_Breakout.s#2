@@ -946,7 +946,7 @@ This is the mechanical footprint for a #4 phillips button head screw. Use the ke
 <busses>
 </busses>
 <nets>
-<net name="GND" class="0">
+<net name="N$1" class="0">
 <segment>
 <pinref part="X1" gate="G$1" pin="A1"/>
 <wire x1="114.3" y1="154.94" x2="60.96" y2="154.94" width="0.1524" layer="91"/>
